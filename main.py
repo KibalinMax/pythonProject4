@@ -1,2 +1,2 @@
-from funcs import plus
-plus()
+from funcs import plus, minus
+minus()
